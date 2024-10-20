@@ -49,3 +49,7 @@ Duration: Duration in minutes (for movies) or number of seasons (for TV shows).
 
 Date Added: When the content was added to Netflix.
 and more...
+
+![image](https://github.com/user-attachments/assets/258dd429-f43a-43f6-84a5-8c72ef26094b)
+
+
