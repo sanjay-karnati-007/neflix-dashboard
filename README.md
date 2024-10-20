@@ -5,7 +5,6 @@ Overview
 This repository contains a Tableau dashboard that provides insights into Netflix's movies and TV shows data. The dashboard is designed to showcase various aspects such as:
 
 -> Top genres of content.
-
 -> Distribution of movies and TV shows.
 -> Ratings breakdown across different content types.
 -> Geographical distribution of Netflix's content across countries.
